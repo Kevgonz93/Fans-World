@@ -1,0 +1,6 @@
+[submodule "Front"]
+	path = Front
+	url = https://github.com/isdi-coders-2023/Kevin-Gonzales-Final-Project-202402-Mad-Front.git
+[submodule "Back"]
+	path = Back
+	url = https://github.com/isdi-coders-2023/Kevin-Gonzales-Final-Project-202402-Mad-Back
