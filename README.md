@@ -72,6 +72,8 @@ Ejectuta el servidor de desarrollo:
 -     El Frontend debería estar corriendo en http://localhost:4200.
 -     El Backend debería estar corriendo en http://localhost:3000.
 
+---
+
 ## 🧪 Testing
 
 Para ejecutar las pruebas automáticas de los proyectos:
@@ -86,6 +88,8 @@ Para ejecutar las pruebas automáticas de los proyectos:
   cd ../Back
   npm run test
 
+---
+
 ## 🤝 Contribución
 
 Este repositorio está configurado para trabajar con los submódulos de Frontend y Backend de manera eficiente. Si deseas contribuir, sigue estos pasos:
@@ -95,6 +99,8 @@ Este repositorio está configurado para trabajar con los submódulos de Frontend
 3. Realiza los cambios y haz commit (git commit -am 'Descripción de cambios').
 4. Haz push a tu rama (git push origin nombre-rama).
 5. Crea un Pull Request.
+
+---
 
 ## 📜 Licencia
 
